@@ -1,6 +1,9 @@
 # MCMC_SD
 MCMC codes for binary star astrometry from Dieterich et al. 2018, codes in IDL
 
+Licensed for distribution under the GNU General Public License v3.0
+https://choosealicense.com/licenses/gpl-3.0/
+
 The purpose of this MCMC suite of codes is to inferr the astrometric parameters
 for trigonometric parallax, proper motion, and the 7 orbital elements based
 on a list of astrometric displacements. Any combination of parameters can be
